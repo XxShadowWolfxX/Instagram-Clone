@@ -19,5 +19,3 @@ angular.module("Instagram", ["ngRoute", "ngMessages"])
 	  })
 	  .otherwise("/");
   });
-
-  console.log("Server is running! :)");
